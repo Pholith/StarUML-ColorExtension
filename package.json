@@ -1,0 +1,17 @@
+{
+    "name": "pholith.easycolors",
+    "title": "EasyColors",
+    "description": "Color managment",
+    "homepage": "TODO",
+    "version": "0.1.0",
+    "keywords": ["color"],
+    "author": {
+      "name": "Vincent Buisset",
+      "email": "vincent22062@gmail.com",
+      "url": "https://github.com/Pholith"
+    },
+    "license": "Not choiced",
+    "engines": {
+      "staruml": ">=4.0.0"
+    }
+  }

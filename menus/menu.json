@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "id": "tools",
+      "submenu": [
+        {
+          "label": "EasyColors",
+          "id": "tools.color",
+          "submenu": [
+            { "label": "Change colors preferences","id": "tools.color.set", "command": "color:set" },
+            { "label": "Reset colors preferences", "id": "tools.color.default", "command": "color:default" },
+            { "label": "Apply colors on diagram", "id": "tools.color.default", "command": "color:apply" }
+          ]
+        }
+      ]
+    }
+  ]
+}
