@@ -7,6 +7,14 @@ It also allows to recolor your diagrams in 2 clicks. (work in progress)
 For a colorful engineeringworld !
 I recommand you to makes backup of your project before using this extension until it is released.
 
+# How to use
+There are few commands in tools->EasyColors:
+- "Set color preferences" change your colors settings to colors choiced in the extension
+Use it carefully if you don't want to lost your colors settings.
+- "Reset color preferences" put all your colors settings on default.
+- "Apply preferences on diagram" change the colors of your elements depending of your settings
+
+
 # Diagram examples
 
 ## Class diagram
