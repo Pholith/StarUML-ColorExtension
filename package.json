@@ -2,8 +2,8 @@
     "name": "pholith.easycolors",
     "title": "EasyColors",
     "description": "Color managment",
-    "homepage": "TODO",
-    "version": "0.1.0",
+    "homepage": "https://github.com/Pholith/StarUML-ColorExtension",
+    "version": "0.1.1",
     "keywords": ["color"],
     "author": {
       "name": "Vincent Buisset",

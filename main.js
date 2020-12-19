@@ -1,20 +1,35 @@
 
 let dict = {
-    "uml.package.fillColor":                    "#d67272",
-    "uml.class.fillColor":                      "#d67272",
-    "uml.model.fillColor":                      "#d67272",
-    "uml.subsystem.fillColor":                  "#d67272",
-    "uml.node.fillColor":                       "#d67272",
-    "uml.usercase.fillColor":                   "#d67272",
+    // Class diagram
+    "uml.class.fillColor":                      "#d8e1f8",
+    "uml.interface.fillColor":                  "#ffffcd",
+    "uml.enumeration.fillColor":                "#f4d3d3",
+    
+    // Use case diagram
+    "uml.actor.fillColor":                      "#ffffff",
+    "uml.package.fillColor":                    "#fff2e4",
+    "uml.usecase.fillColor":                    "#d6ffae",
 
+    // Activity diagram
+    "uml.action.fillColor":                     "#d8e1f8",
+    "uml.controlnode.fillColor":                "#cce18d",
+
+    // Deployment and component diagram
+    "uml.node.fillColor":                       "#f1d9c2",
+    "uml.component.fillColor":                  "#e1e5fa",
+    "uml.artifact.fillColor":                   "#e3ffc9",
+    "uml.port.fillColor":                       "#c082ff",
+
+    // Flowchart diagram
+    "flowchart.terminator.fillColor":           "#9acef6",
+    "flowchart.process.fillColor":              "#fff07c",
+    "flowchart.decision.fillColor":             "#cce18d",
     "flowchart.database.fillColor":             "#f8a9cc",
     "flowchart.document.fillColor":             "#8acd8a",
     "flowchart.predefined-process.fillColor":   "#ddc8c3",
     "flowchart.data.fillColor":                 "#dee7fe",
-    "flowchart.decision.fillColor":             "#cce18d",
     "flowchart.manual-input.fillColor":         "#edeffa",
-    "flowchart.process.fillColor":              "#fff07c",
-    "flowchart.terminator.fillColor":           "#9acef6"
+
 }
 
 // Prefix used in class names

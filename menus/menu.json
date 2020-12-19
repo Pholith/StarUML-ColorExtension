@@ -7,9 +7,9 @@
           "label": "EasyColors",
           "id": "tools.color",
           "submenu": [
-            { "label": "Change colors preferences","id": "tools.color.set", "command": "color:set" },
-            { "label": "Reset colors preferences", "id": "tools.color.default", "command": "color:default" },
-            { "label": "Apply colors on diagram", "id": "tools.color.default", "command": "color:apply" }
+            { "label": "Set color preferences","id": "tools.color.set", "command": "color:set" },
+            { "label": "Reset color preferences", "id": "tools.color.default", "command": "color:default" },
+            { "label": "Apply preferences on diagram", "id": "tools.color.default", "command": "color:apply" }
           ]
         }
       ]
