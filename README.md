@@ -1,21 +1,22 @@
 # EasyColor Extension
 
-EasyColor is an extension to manage easily colors in your diagrams.
+EasyColors is an extension that allows you to easily manage and change colors on your charts.
 It makes easier to set your color preferences, and shares same colors between collaborators.
-It also allows to recolor your diagrams in 2 clicks. (work in progress)
+It also allows to recolor your diagrams in 2 clicks.
 
 For a colorful engineeringworld !
-I recommand you to makes backup of your project before using this extension until it is released.
 
 # How to use
-There are few commands in tools->EasyColors:
-- "Set color preferences" change your colors settings to colors choiced in the extension
-Use it carefully if you don't want to lost your colors settings.
-- "Reset color preferences" put all your colors settings on default.
-- "Apply preferences on diagram" change the colors of your elements depending of your settings
+![](readme/demonstration.gif)
+
+There are few commands in Tools->EasyColors:
+- "Set color preferences": Change your colors preferences in StarUML to colors choiced by the extension.    
+Use it carefully if you don't want to lost your colors preferences.
+- "Reset color preferences": Put all your colors settings on default.
+- "Apply preferences on diagram": Change the color of all elements of the diagram according to your preferences.
 
 
-# Diagram examples
+# Diagram color examples
 
 ## Class diagram
 ![](readme/class.png)
@@ -36,8 +37,8 @@ Use it carefully if you don't want to lost your colors settings.
 # Work in progress
 - Make themes
     - default theme
-    - cold theme
+    - dark theme
     - others ?
 - Save color preference before changes
-- Change multiples tag color with a selection
+- Change multiples tags color with a selection
 - Apply different color depending of the item attributes (exemple: make abtract class a little darker)

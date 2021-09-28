@@ -1,7 +1,7 @@
 {
     "name": "pholith.easycolors",
     "title": "EasyColors",
-    "description": "Color managment",
+    "description": "Diagram color managment",
     "homepage": "https://github.com/Pholith/StarUML-ColorExtension",
     "version": "1.0.0",
     "keywords": ["color"],
